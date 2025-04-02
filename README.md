@@ -15,10 +15,8 @@ Tableau Excel (for data preparation)
 ## Project Goals
 - Identify product subcategories with high return rates Highlight regions and states with frequent returns Correlate return behavior with total sales and customer data Surface business risks related to inventory and product satisfaction Propose recommendations to reduce return-related loss
 
-## Screenshots
--
--
--
+## Live Dashboard
+- https://public.tableau.com/app/profile/fernanda.shoup/viz/Sprint5Project-FernandaShoup/Presentation?publish=yes
 
 ## Status
 Completed – [March 2025]
